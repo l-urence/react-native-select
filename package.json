@@ -1,0 +1,30 @@
+{
+  "name": "react-native-select",
+  "version": "0.0.1",
+  "description": "A react-native component to select an option from a list of options. Similar to the html select.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "utils.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/l-urence/react-native-select.git"
+  },
+  "keywords": [
+    "Android",
+    "iOS",
+    "option",
+    "react-component",
+    "react-nativ",
+    "select"
+  ],
+  "author": "Laurence Bortfeld",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/l-urence/react-native-select/issues"
+  },
+  "homepage": "https://github.com/l-urence/react-native-select#readme"
+}
