@@ -3,8 +3,8 @@ react-native-select lets you similar to html `<select>` choose one option betwee
 
 ![Slider Examples](https://github.com/l-urence/react-native-select/blob/master/example.gif)
 
-## How to use this react-native-select
-Before you can use the component installed with npm:
+## How to use react-native-select
+Before you can use the component install it with npm:
 
 ```shell
 npm i --save react-native-select
@@ -16,7 +16,7 @@ or install it from github.com:
 npm i —save l-urence/react-native-select
 ```
 
-Here is a small example of how to use react-native-select in your project:
+Here is a small example of react-native-select:
 
 ```javascript
 var React = require('react-native');
@@ -49,8 +49,7 @@ var styles = StyleSheet.create({
     alignItems: 'center',
     backgroundColor: '#F5FCFF',
     flex: 1,
-    justifyContent: 'center',
-    paddingTop: 20
+    justifyContent: 'center'
   }
 });
 
@@ -64,7 +63,7 @@ AppRegistry.registerComponent('SelectExample', () => SelectExample);
 | children | Option | Set of options to display |
 | parentLayout | object | The layout of the parent element needs to be set for open / close animation |
 | label | string | A label for the `Select` element |
-| onSelect | function | Will be called when selection changes `onSelect={(value) => /* ... */} |
+| onSelect | function | Will be called when selection changes `onSelect={(value) => /* ... */}` |
 | selectedTextStyle | styleSheet | The style for the selected option text |
 ### Option
 | Prop | Type | Description |
