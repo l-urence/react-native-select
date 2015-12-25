@@ -7,7 +7,7 @@ react-native-select lets you similar to html `<select>` choose one option betwee
 Before you can use the component install it with npm:
 
 ```shell
-npm i --save react-native-select
+npm i --save react-native-selectit
 ```
 
 or install it from github.com:
