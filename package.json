@@ -1,5 +1,5 @@
 {
-  "name": "react-native-select",
+  "name": "react-native-selectit",
   "version": "0.0.1",
   "description": "A react-native component to select an option from a list of options. Similar to the html select.",
   "main": "index.js",
