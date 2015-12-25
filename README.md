@@ -1,7 +1,7 @@
 # react-native-select
 react-native-select lets you similar to html `<select>` choose one option between a set of other options.
 
-![Slider Examples](https://github.com/l-urence/react-native-select/blob/master/example.gif)
+![Slider Examples](https://raw.githubusercontent.com/l-urence/react-native-select/master/example.gif)
 
 ## How to use react-native-select
 Before you can use the component install it with npm:
